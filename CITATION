@@ -1,0 +1,9 @@
+@misc{Hammoudeh:2022:Identifying,
+    author    = {Zayd Hammoudeh and
+                 Daniel Lowd},
+    title     = {Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation},
+    archivePrefix = {arXiv},
+    eprint    = {2201.10055},
+    primaryClass = {cs.LG},
+    year = {2022},
+}
