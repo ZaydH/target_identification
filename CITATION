@@ -3,6 +3,6 @@
                  Daniel Lowd},
     title     = {Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation},
     booktitle = {Proceedings of the 2022 {ACM} {SIGSAC} Conference on Computer and Communications Security},
-    series = {{CCS}’22}
+    series = {{CCS}’22},
     year = {2022},
 }
