@@ -1,0 +1,22 @@
+---
+  dataset: "cifar10"
+  other_ds: "mnist"
+  # Learner parameters
+  num_ff_layers: 0
+  num_epoch: 10
+  num_subepoch: 5
+  batch_size: 64
+  optim: "Adam"
+  learning_rate: 1E-3
+  weight_decay: 1E-3
+  validation_split_ratio: 0.16666667
+  targ_cls: 6
+  pois_cls: 0
+  targ_idx: 500
+  other_cnt: 150
+  # influence function parameters
+  hvp_batch_size: 1
+  damp: 1E-2
+  scale: 3E7
+  r_depth: 1000
+  t_repeats: 10
